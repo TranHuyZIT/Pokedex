@@ -6,6 +6,7 @@ module.exports = {
       primary: "#9D6D42",
       secondary: "#012641",
       white: "#fff",
+      black: "#000",
     },
     extend: {
       width: {
